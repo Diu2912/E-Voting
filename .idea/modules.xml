@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-Voting-System.iml" filepath="$PROJECT_DIR$/Android-Voting-System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vote-app/vote-app.iml" filepath="$PROJECT_DIR$/vote-app/vote-app.iml" />
+    </modules>
+  </component>
+</project>
